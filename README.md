@@ -64,11 +64,21 @@ Web_development_City_of_Moreton_Bay_Task_Two/
 
 ---
 
+****🧩 Technologies Used
+
+HTML5
+
+CSS3
+
+Git & GitHub Pages (for deployment)
+
+---
+
 ## 🌐 **Live Demo**
 
 The project is hosted using GitHub Pages.  
 👉 **Live Site:**  
-https://nix2star.github.io/Web_development_City_of_Moreton_Bay_Task_Two/
+https://nix2star.github.io/Web-development-City-of-Moreton-Bay---Task-Two/
 
 ---
 
@@ -78,15 +88,6 @@ https://nix2star.github.io/Web_development_City_of_Moreton_Bay_Task_Two/
 git clone https://github.com/nix2star/Web_development_City_of_Moreton_Bay_Task_Two.git
 cd Web_development_City_of_Moreton_Bay_Task_Two
 
----
-
-****🧩 Technologies Used
-
-HTML5
-
-CSS3
-
-Git & GitHub Pages (for deployment)
 
 ---
 
